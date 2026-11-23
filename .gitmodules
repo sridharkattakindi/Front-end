@@ -1,0 +1,6 @@
+[submodule "frontend-practice"]
+	path = frontend-practice
+	url = git@github.com:sridharkattakindi/frontend-practice.git
+[submodule "react-learning"]
+	path = react-learning
+	url = git@github.com:sridharkattakindi/react-learning.git
